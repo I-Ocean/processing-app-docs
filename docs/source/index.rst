@@ -10,7 +10,10 @@ I/Ocean python package
    :maxdepth: 2
    :caption: Contents:
 
+   Installation
    Common_dictionaries
+   Add_calibrations
+   Add_instruments
 
 
 
