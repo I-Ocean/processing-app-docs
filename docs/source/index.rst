@@ -28,14 +28,13 @@ workflow can be viewed here: `current workflow`_.
    Common_dictionaries
    Add_calibrations
    Add_instruments
-
+   Licence
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
 
