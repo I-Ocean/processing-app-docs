@@ -31,12 +31,6 @@ workflow can be viewed here: `current workflow`_.
    Licence
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
 
 .. _I/Ocean NetCDF specification: https://github.com/I-Ocean/netcdf-specification
 .. _current workflow: Current_workflow.rst
